@@ -3,3 +3,140 @@ body {
     line-height: 1.65;
     font-size: 1.2rem;
 }
+
+.heading {
+    background-color: black;
+    text-align: left;
+}
+
+.heading img {
+    width: 10%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+nav {
+    background-image: url(../images/banner.jpg);
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+
+nav h1 {
+    font-family: "Montserrat";
+    line-height: 1.65;
+    font-size: 1.8em;
+    font-weight: bold;
+    padding-top: 4em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 1em;
+    line-height: 1.65;
+}
+
+nav p {
+    padding-left: 17em;
+    padding-right: 17em;
+    padding-bottom: 2em;
+}
+
+button {
+    background-color: #f04c2f;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    color: white;
+    font-weight: bolder;
+}
+
+section {
+    margin: 4em;
+}
+
+.img2 {
+    border-radius: 48% 52% 50% 50% / 50% 48% 52% 50%;
+    width: 20%;
+    display: inline-block;
+}
+
+#content {
+    display: inline-block;
+    width: 70%;
+    padding-left: 2em;
+}
+
+.blu {
+    line-height: 1.65;
+    font-family: "Montserrat";
+    color: #25a2c3;
+    font-weight: bolder;
+}
+
+article {
+    background-color: orangered;
+    padding: 2em;
+    color: white;
+    text-align: center;
+}
+
+article h3 {
+    font-size: 1.8em;
+    font-weight: bolder;
+    padding-bottom: 0.5em;
+}
+
+blockquote {
+    font-style: italic;
+    padding-bottom: 0.8em;
+}
+
+.ceo {
+    font-size: 0.8em;
+}
+
+.box {
+    display: inline-block;
+    margin: 2em;
+    padding-bottom: 1em;
+    width: 25%;
+    text-align: center;
+    border: 2px solid lightgray;
+}
+
+.box img {
+    width: 100%;
+    height: 350px;
+}
+
+footer {
+    background-color: #25a2c3;
+    text-align: left;
+    height: 350px;
+    color: #c8e7f0;
+    text-decoration: none;
+    padding-left: 30em;
+    margin-top: 10em;
+}
+
+footer h3 {
+    font-family: "Montserrat";
+    font-size: 1.8em;
+    font-weight: bolder;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+footer a {
+    color: #c8e7f0;
+}
+
+footer hr {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-right: 36em;
+}
