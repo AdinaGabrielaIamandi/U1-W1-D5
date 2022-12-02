@@ -122,6 +122,7 @@ aside {
 }
 
 footer {
+    vertical-align: middle;
     background-color: #25a2c3;
     text-align: left;
     height: 350px;
