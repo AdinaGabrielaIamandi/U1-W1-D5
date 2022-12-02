@@ -18,7 +18,7 @@ body {
 
 nav {
     background-image: url(../images/banner.jpg);
-    background-position: left top;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -32,7 +32,7 @@ nav h1 {
     line-height: 1.65;
     font-size: 1.8em;
     font-weight: bold;
-    padding-top: 4em;
+    padding-top: 3.8em;
     padding-left: 5em;
     padding-right: 5em;
     padding-bottom: 1em;
@@ -111,9 +111,10 @@ aside {
     display: inline-block;
     padding-bottom: 1em;
     margin: 1em;
-    width: 25%;
+    width: 30%;
     text-align: center;
     border: 2px solid lightgray;
+    vertical-align: middle;
 }
 
 .box img {
