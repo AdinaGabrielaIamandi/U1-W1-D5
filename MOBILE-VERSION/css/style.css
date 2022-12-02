@@ -4,12 +4,9 @@ body {
     font-size: 1.2rem;
 }
 
-header {
-    text-align: center;
-}
-
 .heading {
     background-color: black;
+    vertical-align: left;
 }
 
 .heading img {
